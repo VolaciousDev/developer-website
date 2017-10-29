@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/relative
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://volacious-dev.discords.me
+  * I am relative (https://keybase.io/relative) on keybase.
+  * I have a public key with fingerprint 8368 5045 BE5E A704 B59E  BEE3 6D28 1EDD 4451 F433
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014194c178b1e9893bad29d8b138ae7efd013c5d5be6d8685afbfabfcc88fe71840a",
+      "fingerprint": "83685045be5ea704b59ebee36d281edd4451f433",
+      "host": "keybase.io",
+      "key_id": "6d281edd4451f433",
+      "kid": "01014194c178b1e9893bad29d8b138ae7efd013c5d5be6d8685afbfabfcc88fe71840a",
+      "uid": "d2d9e1f13413d3e07064d629ac334119",
+      "username": "relative"
+    },
+    "service": {
+      "hostname": "volacious-dev.discords.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1509269140,
+  "expire_in": 157680000,
+  "prev": "2758da8196637b133d4f7c68816121bb7ac2432f0ae2c1b1fb2dd4685bd13c08",
+  "seqno": 55,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIyAnicrVJdSBRRGN3NfsiytIjQHqqph4pN5s7/bFA9RA9lGEREuLbcO/fOOrjN
+rDOzs4lpFAb2X2TZHymEVBqaBkZlaZaYJJIkaFEZYShFRVDQQ2R3pN567L5c7nfP
+Od/5Dt/jjLRAejB6cNVr5+yu2uDTh/XJwM7vl6vLGGThUiZcxhSTyYvEMXHcaLGB
+mTDDAhYIQBU0ICsIEFVReQQxp2L64hVIZKJjFvCaiEVEJKxIigh1pEOka5qi6EQG
+isBCJsTohhkjdsI2TJfKKjwFsgLliATKrIBElSBCeAlzCiAYC4IIdIHnKbHIcnwG
+NYegQ3INi9boIzpp7x/4/+w7OSmHOawSoANeADzmCSuzkoAlToUaT0tA9YEOsU24
+m1C0TeLQNTzClIcYWvUMjfjB+pP8QXhWHGqGlXRWY+LlYsPRLBs7ufQvxCRsy7U0
+K05hRa6bcMK+jFua8HkpgqJ/FKPIMDENlTI8YjuGZTJhQJGaa/gtgMiqnKQCgQ0x
+ZE/CsEnU8BGiLCksPX4f4lFJThYVDBWgShIv03B4LOiyJikKkAAHEJKhxgk8p7OQ
+cBpAQEcczZvmhTDNj1UYf8YS02LCokh9whjVdIyYCd2kTRPo6oxMDQTTA9OnTfG3
+LZA+M/PvDo7VzpgoqnPrK3Ho6q87zQ0Lvmwd6F9ufKoI5r3tbz5yYmNyr9f3dfad
+9Z/7Lhy5l/Hx+reKvC2hkyMPVndoPS2DlXW9BRezzy9aluLXtj4XSw5n5b0bvxbp
+ndsxhs8sfI1Weiv6G6vG183PK1x7trJ6Q8OQeWw0svnS0qmLpdi+U/l42qln33b1
+rCmsCY582NGSlbqRPbBs6dDEoZ9pFeXzbtVXeUfvCk9WbYztzd8+YT+y9MTwQNvm
+7qKtnYGbrQdutzunB+vE9/ePZy/JEAre5Cyv2hQ5MR1mjpb+2Nb1qg3mx66U1c7Z
+ti/SXl2Y84kMvehOTEm93O+dbhruOtf4pqltVkWN1PQbHIVM9g==
+=4bCe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/relative
+
+==================================================================
